@@ -13,7 +13,7 @@ def main():
 def save_list(string_list):
     with open(os.path.join(os.getcwd(), "intersection_list.txt"), "w") as f:
         for i in string_list:
-            f.write('\n'.join(str(i)))
+            f.write(i + '\n')
         
 
 def combine_list(dir):
