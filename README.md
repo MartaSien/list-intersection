@@ -2,7 +2,7 @@
 
 ## Description
 
-Utility script to find an intersection between 2 lists.
+Utility script to find an intersection between lists.
 
 ## Usage
 
